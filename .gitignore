@@ -1,0 +1,49 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Models (optional)
+*.joblib
+*.pkl
+
+# Data
+data/
+datasets/
+dataset/
+raw_data/
+processed_data/
+
+# CSV datasets
+*.csv
+*.parquet
+
+# Temporary files
+*.tmp
