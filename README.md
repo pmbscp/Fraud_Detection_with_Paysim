@@ -1,10 +1,10 @@
-# 💳 Bank Fraud Detection with Machine Learning
+# Bank Fraud Detection with Machine Learning
 
 An end-to-end machine learning project for detecting fraudulent financial transactions using supervised learning techniques.
 
 ---
 
-## 🚀 Highlights
+## Key Points
 
 - End-to-end ML pipeline
 - Exploratory Data Analysis (EDA)
